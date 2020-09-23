@@ -1,6 +1,6 @@
 # DOM Practice
 
-## Task 1
+## Task 1 - A function called on click
 
 The function handle click currently looks like this...
 
@@ -16,21 +16,27 @@ With in the function...
 
 👉 double the the value of the the pennies variable.
 
-👉 update the `innerHTML` of the output tag to be `${pennies} pennies`.
+👉 update the `innerText` of the output tag to be `${pennies} pennies`.
 
-## Task 2
+## Task 2 - selecting and changing text
+
+_This does not need to be in a function_
+
+👉 Select the element with a class of `.quote` and store in a variable.
+
+👉 Change its `innerText` to a funny quote of your choosing.
+
+## Task 3 - selecting and changing style
+
+_This does not need to be in a function_
 
 👉 Select the `h1` tag using querySelector and store in variable.
 
 👉 Change its `text-decoration` property to the value of `underline`.
 
-## Task 3
+## Task 4 - creating elements
 
-👉 Select the element with a class of `.quote` and store in a variable.
-
-👉 Change its innerHTML to a funny quote of your choosing.
-
-## Task 4
+_This does not need to be in a function_
 
 There is a list of extra tips to be added to the unordered list with the id of `#tips-list`
 
@@ -41,20 +47,29 @@ There is a list of extra tips to be added to the unordered list with the id of `
 👉 for each tip...
 
 - create an `li` element
-- set the innerHTML of the `li` element to be the current tip
+- set the `innerText` of the `li` element to be the current tip
 - append the newly created element as a child of the `ul`
 
 ## Task 5
 
-👉 Write a new function that changes something about the page.
+_This does not need to be in a function. yet..._
 
-👉 Have that function called on the click of the button with id `#click-me`
+Not all aspects of the page need to accessed with `querySelector`, some have shortcuts on the `document` object.
+
+👉 Change the `title` property of the `document` by assigning it a new value.
 
 ## Task 6
 
-Go crazy!
+👉 Put the code from Task 5 in a function.
 
-- Repeat task 5
-- Rearrange the page with css
-- Mix it up change the ids to classes
-- Use you imagination!
+👉 Have that function called on the click of the button with id `#click-me`
+
+## Task 7
+
+👉 Add an input field, and a new button to the html.
+
+👉 Write a function that sets the `h1`'s `innerText` to be whatever is in the input field.
+
+## Task 8
+
+👉 Go Nuts! See what else you can do, use your imagination, combine with what you've learnt in the last couple of days! 🤯.
