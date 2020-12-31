@@ -2,7 +2,7 @@
 
 ## Task 1 - A function called on click
 
-The function handle click currently looks like this...
+The function handleClick currently looks like this...
 
 ```js
 function handleClick() {
