@@ -12,7 +12,7 @@ function handleClick() {
 }
 ```
 
-With in the function...
+Within the function...
 
 👉 double the the value of the the pennies variable.
 
