@@ -72,4 +72,4 @@ Not all aspects of the page need to accessed with `querySelector`, some have sho
 
 ## Task 8
 
-👉 Go Nuts! See what else you can do, use your imagination, combine with what you've learnt in the last couple of days! 🤯.
+👉 Go Nuts! See what else you can do. Use your imagination! 🤯
