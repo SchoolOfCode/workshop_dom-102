@@ -6,7 +6,7 @@ The function handleClick currently looks like this...
 
 ```js
 function handleClick() {
-  console.log("Im just to prove it's working!");
+  console.log("I'm just to prove it's working!");
   // Double the number of pennies
   // display in the output tag
 }
@@ -14,9 +14,9 @@ function handleClick() {
 
 Within the function...
 
-👉 double the the value of the the pennies variable.
+👉 Double the the value of the the pennies variable.
 
-👉 update the `innerText` of the output tag to be `${pennies} pennies`.
+👉 Use the pennies variable to update the `textContent` of the output tag to be `${pennies} pennies`.
 
 ## Task 2 - selecting and changing text
 
@@ -24,7 +24,7 @@ _This does not need to be in a function_
 
 👉 Select the element with a class of `.quote` and store in a variable.
 
-👉 Change its `innerText` to a funny quote of your choosing.
+👉 Change its `textContent` to a funny quote of your choosing.
 
 ## Task 3 - selecting and changing style
 
@@ -47,7 +47,7 @@ There is a list of extra tips to be added to the unordered list with the id of `
 👉 for each tip...
 
 - create an `li` element
-- set the `innerText` of the `li` element to be the current tip
+- set the `textContent` of the `li` element to be the current tip
 - append the newly created element as a child of the `ul`
 
 ## Task 5
@@ -68,7 +68,7 @@ Not all aspects of the page need to accessed with `querySelector`, some have sho
 
 👉 Add an input field, and a new button to the html.
 
-👉 Write a function that sets the `h1`'s `innerText` to be whatever is in the input field.
+👉 Write a function that sets the `h1`'s `textContent` to be whatever is in the input field.
 
 ## Task 8
 
