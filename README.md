@@ -28,7 +28,7 @@ _This does not need to be in a function_
 
 ## Task 3 - selecting and changing style
 
-_This does not need to be in a function_
+_This does not need to be in a function._
 
 👉 Select the `h1` tag using querySelector and store in variable.
 
@@ -38,13 +38,13 @@ _This does not need to be in a function_
 
 _This does not need to be in a function_
 
-There is a list of extra tips to be added to the unordered list with the id of `#tips-list`
+There is a list of extra tips to be added to the unordered list with the id of `#tips-list`.
 
-👉 Select the tips list
+👉 Select the tips list. (This is the variable called `tips` that contains the array of tips!)
 
-👉 Use a for loop to loop through the array of tips
+👉 Use a for loop to loop through the array of tips.
 
-👉 for each tip...
+👉 For each tip...
 
 - create an `li` element
 - set the `textContent` of the `li` element to be the current tip
@@ -52,7 +52,7 @@ There is a list of extra tips to be added to the unordered list with the id of `
 
 ## Task 5
 
-_This does not need to be in a function. yet..._
+_This does not need to be in a function... yet!_
 
 Not all aspects of the page need to accessed with `querySelector`, some have shortcuts on the `document` object.
 
@@ -72,4 +72,4 @@ Not all aspects of the page need to accessed with `querySelector`, some have sho
 
 ## Task 8
 
-👉 Go Nuts! See what else you can do. Use your imagination! 🤯
+👉 Go nuts! See what else you can do. Use your imagination! 🤯
