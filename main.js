@@ -1,14 +1,12 @@
 let pennies = 1;
-const output = document.querySelector("output");
 
 function handleClick() {
   console.log("I'm just to prove it's working!");
-  // Double the number of pennies
-  // display in the output tag
+  // 🔺 Remember, this function is already hooked up to the button. You'll learn how to do this yourself soon! Your task is just to write the code inside this function itself.
 }
 
-let tips = [
+let additionalTips = [
   "Keep your pennies is a glass jar",
-  "Save money buy not eating!",
+  "Pick up every penny you find on the ground!",
   "Don't let your partner know...",
 ];
